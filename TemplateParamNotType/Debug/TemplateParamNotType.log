@@ -1,0 +1,3 @@
+﻿  stack4.cpp
+stacktest.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Stack<int,10>::Stack<int,10>(void)" (??0?$Stack@H$09@@QAE@XZ)，该符号在函数 _main 中被引用
+F:\cplusplus\projects\TemplateTests\Debug\04TemplateParamNotType.exe : fatal error LNK1120: 1 个无法解析的外部命令
